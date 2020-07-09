@@ -1,0 +1,13 @@
+{
+  "appId": "com.camera.preview",
+  "appName": "camera-preview-demo",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
